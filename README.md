@@ -21,12 +21,11 @@ I bring a tester's mindset to AI: I care about whether an agent is reliable and 
 | [HR Agent](https://github.com/Udhaya-San/Autogen-Hr-Agent) | AutoGen agent that drafts job descriptions |
 | [Weather & News Agent](https://github.com/Udhaya-San/Weather-News-Agent) | Agent that reports weather for any city |
 
-## Tech stack
-
-**AI:** AutoGen · LangChain · Gemini · RAG · fine-tuning
-**Backend:** Python · FastAPI · Streamlit · Docker
-**Testing:** Java · test automation · medical device software verification
-**Automation:** n8n
+## Tech Stack
+- **AI:** AutoGen · LangChain · Gemini · RAG · fine-tuning
+- **Backend:** Python · FastAPI · Streamlit · Docker
+- **Testing:** Java · test automation · medical device software verification
+- **Automation:** n8n
 
 ## Connect
 
